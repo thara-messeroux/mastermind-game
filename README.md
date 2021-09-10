@@ -25,7 +25,7 @@ On each row there are 4 slots for the code breaker to place their guesses.
 Next to each set of four slots, there are four smaller slots for the Mastermind 
 to place their feedback for each guess.
 
-Technology Used: Python, Turtle Graphics
+Technology Used: Python Turtle Graphics
 
 
 ![MastermindGame](https://media.github.ccs.neu.edu/user/8933/files/f721bb80-1241-11ec-811c-ea9cec2d67f0)
