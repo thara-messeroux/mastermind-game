@@ -25,8 +25,9 @@ On each row there are 4 slots for the code breaker to place their guesses.
 Next to each set of four slots, there are four smaller slots for the Mastermind 
 to place their feedback for each guess.
 
-Technology Used: Python Turtle Graphics
- 
+Technology Used: Python, Turtle Graphics
+ ![MastermindGame](https://media.github.ccs.neu.edu/user/8933/files/862cd480-123e-11ec-8dc3-cec1ce719edc)
+
 The mastermind game was programmed in this order:
 
 1. First, I imported:
