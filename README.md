@@ -29,34 +29,34 @@ Technology Used: Python Turtle Graphics
  
 The mastermind game was programmed in this order:
 
-1.First, I imported 
+1. First, I imported 
 	a. random: to randomize the secret code
 	b. Marble starter file: to help me draw the marbles and pegs
 	c. Point starter file: to create the marbles
 	d. turtle: to draw the turtle objects
 	e. time: to sleep some displayed messages and show them temporarily
 
-2.I programmed a function called count_bulls_and_cows to count the number 
+2. I programmed a function called count_bulls_and_cows to count the number 
    of bulls and cows.
 
 3. A function called generate_code to generate the secret code that the Mastermind, 
   in this case, the computer, will use to play the game. I made the game more 
   challenging by allowing the Mastermind to repeat colors in their code. (Extra Credit)
 
-4.Then, programmed a pop up to capture the player name at the start of the game
+4. Then, programmed a pop up to capture the player name at the start of the game
 
-5.Drew the turtle screen/board with the left, right, and bottom box, draw_screen.
+5. Drew the turtle screen/board with the left, right, and bottom box, draw_screen.
 
-6.Drew the text of the leaderboard which draws the text of the leaderboard and displays 
+6. Drew the text of the leaderboard which draws the text of the leaderboard and displays 
   the list of winners with their points/scores. 
 
-7.Drew the cute pink arrow, draw_arrow. 
+7. Drew the cute pink arrow, draw_arrow. 
 
-8.Drew the check button, a green checkmark for the “check” button, draw_check_button.
+8. Drew the check button, a green checkmark for the “check” button, draw_check_button.
 
-9.Drew the x button, a red “X” for the “cancel” button, draw_x_button.
+9. Drew the x button, a red “X” for the “cancel” button, draw_x_button.
 
-10.Drew the quit button, a red square for the “quit” button, draw_quit_button.
+10. Drew the quit button, a red square for the “quit” button, draw_quit_button.
 
 11. Programmed a function for each of these 3 buttons, to make sure they reacted 
     properly when clicked. These functions are:
