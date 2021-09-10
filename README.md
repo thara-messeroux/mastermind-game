@@ -30,7 +30,9 @@ Technology Used: Python Turtle Graphics
 The mastermind game was programmed in this order:
 
 1. First, I imported:
+	
 	a. random: to randomize the secret code
+	
 	b. Marble starter file: to help me draw the marbles and pegs
 	c. Point starter file: to create the marbles
 	d. turtle: to draw the turtle objects
