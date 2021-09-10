@@ -34,8 +34,11 @@ The mastermind game was programmed in this order:
 	a. random: to randomize the secret code
 	
 	b. Marble starter file: to help me draw the marbles and pegs
+	
 	c. Point starter file: to create the marbles
+	
 	d. turtle: to draw the turtle objects
+	
 	e. time: to sleep some displayed messages and show them temporarily
 
 2. I programmed a function called count_bulls_and_cows to count the number 
@@ -64,45 +67,66 @@ The mastermind game was programmed in this order:
     properly when clicked. These functions are:
 
 12. click_check_button
+	
 	a. if the player presses the "check" button:
+	
 	b. it raises an error message if we enter less than 4 marble colors.
+	
 	c. it confirms and checks/enters a guess 
+	
 	d. it draws the appropriate pegs of the round
+	
 	e. it calls the won_game() function if you win. The player wins if 
 	   they guess the code in 10 tries or less. 
+	
 	f. it calls the lost_game() function if you lose. The player loses 
            if they don’t guess the code in 10 tries.
 
 13. click_x_button
+	
 	a. if the player presses the "X" button:
+	
 	b. the program removes a guess that has not yet been checked/entered
+	
 	c. then, it resets the clickable, colored guess buttons 
 
 14. click_quit_button
- 	a. if the player presses the Quit button:
- 	b. the program displays a visual message popup for a few seconds, then
- 	c. the program closes
+ 	
+	a. if the player presses the Quit button:
+ 	
+	b. the program displays a visual message popup for a few seconds, then
+ 	
+	c. the program closes
 
 15. Drew the marbles, draw_marbles.
 
 16. Drew the pegs, draw_pegs.
 
 17. Programmed 2 functions called marbles_game and click_marbles for the marbles.
+	
 	a. The function marbles_game calls the function click_marbles(color), 
 	   if the user clicks a colored marble.
+	
 	b. The function click_marbles sets the color of the current marble 
            and redraws the marble.
 
 18. Programmed a function called won_game if the user wins.
+	
 	a. the program displays a visual message popup saying that you won.
+	
 	b. displays the list of winners with their scores (the score is the number of guesses 
 	  it takes the player to guess the code.)
+	
 	c.The list of winners gets sorted by score and gets reset after 15 lines to fit the board. 
+	
 	d. closes the program 
 
 19. Programmed a function called lost_game if the user loses.
+	
 	a. the program displays a visual popup message saying that you lost.
+	
 	b. your name won’t show in the list of players
+	
 	c. closes the program 
 
 Although it was challenging to code my first game, it was a real pleasure to complete it. 
