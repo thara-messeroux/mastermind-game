@@ -28,8 +28,7 @@ to place their feedback for each guess.
 Technology Used: Python Turtle Graphics
 
 
-![MastermindGame](https://media.github.ccs.neu.edu/user/8933/files/f721bb80-1241-11ec-811c-ea9cec2d67f0)
-
+![MastermindGame](https://media.github.ccs.neu.edu/user/8933/files/db321000-1269-11ec-91b1-ba84fecf050e)
 
 
 The mastermind game was programmed in this order:
