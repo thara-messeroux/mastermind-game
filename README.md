@@ -30,7 +30,7 @@ Technology Used: Python Turtle Graphics
 
 ![MastermindGame](https://media.github.ccs.neu.edu/user/8933/files/db321000-1269-11ec-91b1-ba84fecf050e)
 
-![image](https://media.github.ccs.neu.edu/user/8933/files/fbaf9980-126c-11ec-8415-8af4370489d8)
+![MastermindGameCode](https://media.github.ccs.neu.edu/user/8933/files/1aae2b80-126d-11ec-8fb1-f25bf5f1281e)
 
 The mastermind game was programmed in this order:
 
