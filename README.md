@@ -51,7 +51,7 @@ The mastermind game was programmed in this order:
 
 3. A function called generate_code to generate the secret code that the Mastermind, 
   in this case, the computer, will use to play the game. I made the game more 
-  challenging by allowing the Mastermind to repeat colors in their code. (Extra Credit)
+  challenging by allowing the Mastermind to repeat colors in their code. 
 
 4. Then, programmed a pop up to capture the player name at the start of the game
 
